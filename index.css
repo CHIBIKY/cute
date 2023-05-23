@@ -1,0 +1,23 @@
+.father{
+    display: flex;
+    width: 50%;
+    align-items: normal;
+}
+img{
+    width: 100px;
+    border-radius: 100px;
+    height: 100px;
+}
+.first-car{
+    background-color: orange;
+    padding: 5%;
+}
+.second-car{
+    background-color: rgb(90, 184, 176);
+    padding: 5%;
+}
+button{
+    align-self: center;
+    border-radius: 10px;
+    margin: 1px;
+}
